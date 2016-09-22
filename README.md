@@ -18,9 +18,14 @@ OpenCV can be installed by following this tutorial: http://docs.opencv.org/3.1.0
 
 ### pyCellCounter
 
+[![pyCellCounter](https://raw.githubusercontent.com/dselcan/PyCellCounter/docs/PCC_image.png)](https://raw.githubusercontent.com/dselcan/PyCellCounter/docs/PCC_image.png)
+
 After loading an image, use the draw or line functions to count cells or draw lines. Select the zoom option to measure the distance of the line drawn. Right click to remove count points or line segments. When saving the image, the number of counted items will be appended to the bottom of the image.
 
 ### pyCellAnalyzer
+
+[![pyCellCounter](https://raw.githubusercontent.com/dselcan/PyCellCounter/docs/PCA_image.png)](https://raw.githubusercontent.com/dselcan/PyCellCounter/docs/PCA_image.png)
+
 After loading an image, perform the automated analysis using the Detection menu. Afterwards, use fill (click and drag to select area), line (select lines, double click to add area) or draw (click and drag to circle the area) to add any missing cells. Right click to remove any incorrectly selected areas. When saving area data is added to the bottom of the image.
 
 ## License
