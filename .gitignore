@@ -27,8 +27,8 @@ var/
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#  Spec file built manually for this project, so was removed from .gitignore
 *.manifest
-*.spec
 
 # Installer logs
 pip-log.txt
