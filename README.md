@@ -10,7 +10,7 @@ pyCellCounter is currently split into two programs. pyCellCounter can be used to
 
 ## Installation
 
-The latest release of the softwar for Windows e can be found here:
+The latest release of the softwar for Windows e can be found here: https://github.com/dselcan/PyCellCounter/releases/download/v0.1/pyCellCounter_v0.1.zip
 Alternatively clone the repository and add install the following dependencies: numpy, Pillow, OpenCV-Python.
 OpenCV can be installed by following this tutorial: http://docs.opencv.org/3.1.0/d5/de5/tutorial_py_setup_in_windows.html
 
